@@ -126,4 +126,7 @@ class MyController extends Controller
         return redirect()->away($url);
         // return view('intents', ['json'=>$data]);
     }
+
+
+    
 }
